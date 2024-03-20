@@ -27,7 +27,7 @@
 + Deadshot Perk Machine Missing FX
 + PhD Flopper Perk Machine Missing FX
 + PhD Flopper Perk Machine Missing Jingle (I don't know why but Deadshot Jingle Works)
-
++ Vulture Aid locations of Perks and PaP are incorrect.
 
 ## TODO
 + Add Staminup
