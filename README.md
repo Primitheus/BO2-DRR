@@ -43,4 +43,4 @@
 + Add Tombstone (ew)
 + Add Wonderfizz (Probably Not)
 + Have heavy limits on Wonder Weapons (like prevent someone from having 2 staffs and a sliquifier because that would be broken.)
-+  Research if I can Import something like Widows Wine from BO3
++ Import something like Widows Wine from BO3
