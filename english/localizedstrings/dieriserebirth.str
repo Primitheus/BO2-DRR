@@ -1,0 +1,32 @@
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+// UI
+
+// ZONE NAMES
+
+// WEAPONS
+
+// HINT STRINGS
+
+REFERENCE           ZM_PRISON_PERK_CHERRY
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for Electric Cherry [Cost: &&1]"
+
+REFERENCE           ZOMBIE_PERK_VULTURE
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 for Vulture Aid [Cost: &&1]"
+
+REFERENCE           ZM_HIGHRISE_CHANGE_PERK_NO_KEY
+LANG_ENGLISH        "Additional parts needed"
+
+REFERENCE           ZM_HIGHRISE_CHANGE_PERK
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to change Perk Machine"
+
+REFERENCE           ZM_HIGHRISE_CANT_CALL_ELEVATOR
+LANG_ENGLISH        "Can not call elevator whilst holding a key"
+
+REFERENCE           ZM_HIGHRISE_CALL_ELEVATOR
+LANG_ENGLISH        "Hold ^3[{+activate}]^7 to call elevator"
+
+
+ENDMARKER
