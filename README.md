@@ -44,3 +44,7 @@
 + Add Wonderfizz (Probably Not)
 + Have heavy limits on Wonder Weapons (like prevent someone from having 2 staffs and a sliquifier because that would be broken.)
 + Import something like Widows Wine from BO3
+
+### Credits
+Inspired by Jbleezy [BO2-Reimagined](https://github.com/Jbleezy/BO2-Reimagined/)
+holy_buckets - script and model support. [BO1-Reimagined-Expanded](https://github.com/jhw2167/BO1-Reimagined-expanded)
